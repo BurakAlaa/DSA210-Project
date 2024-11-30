@@ -19,5 +19,5 @@ I will analyze the data I collected to explore relationships between study locat
 •	Null Hypothesis (H₀): Study location and time of day have no significant impact on my exam performance.
 •	Alternative Hypothesis (H₁):
 o	H₁a: Studying in my room leads to better exam performance compared to studying in the IC.
-o	H₁b: Morning (9:00 AM – 12:00 PM) and afternoon (12:00 PM – 5:00 PM) are the most productive time blocks for achieving higher exam grades.
+o	H₁b: Morning and afternoon are the most productive time blocks for achieving higher exam grades.
 
