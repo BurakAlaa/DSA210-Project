@@ -11,7 +11,7 @@ I split the time of the day I study into 5 time blocks:
 •	Afternoon: 12:00 PM – 5:00 PM
 •	Evening: 5:00 PM – 9:00 PM
 •	Night: 9:00 PM – 12:00 AM
-•	Late Night: 12:00 AM – 3:00 AM
+•	Late Night: 12:00 AM – 3:00 AM.
 I carefully noted the location and time block for each study session.
 # Data Analysis
 I will analyze the data I collected to explore relationships between study location, time blocks, and exam performance. This includes identifying correlations between study habits and grades, assessing differences in performance across various locations and times, and finding out patterns or trends that could influence academic outcomes.
